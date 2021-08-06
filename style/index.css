@@ -1,0 +1,35 @@
+html,
+body {
+  margin: 0;
+  height: 100%;
+  background-color: black;
+}
+
+.container {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 15px;
+}
+
+.style {
+  background-color: green;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  padding: 10px 20px;
+  border-radius: 5px;
+  margin: 50px auto;
+  cursor: pointer;
+  color: wheat;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  width: 400px;
+  outline: 0px;
+  border: none;
+}
+/*# sourceMappingURL=index.css.map */

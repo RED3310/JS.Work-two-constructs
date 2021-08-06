@@ -1,0 +1,29 @@
+html,
+body {
+  margin: 0;
+  height: 100%;
+  background-color: black;
+}
+
+.container {
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 15px;
+}
+
+
+.style {
+    background-color: green;
+    flex-direction: column;
+    align-items: center;
+    padding: 10px 20px;
+    border-radius: 5px;
+    margin: 50px auto ;
+    cursor: pointer;
+    color: wheat;
+    display: flex;
+    width: 400px;
+    outline: 0px;
+    border: none;  
+}
+
